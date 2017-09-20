@@ -2,10 +2,6 @@
 creat
 add something
  
-ads ddddddddd
- 
-
-
 ## 数据请求地址
 
  1. 首页数据地址
